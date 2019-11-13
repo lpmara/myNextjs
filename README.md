@@ -1,0 +1,2 @@
+# myNextjs
+for start next
